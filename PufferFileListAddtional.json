@@ -1,0 +1,12 @@
+{
+    "MapAdditionalShaderInfo": {
+        "map_test_1.4.0.12343": [
+            "ShaderArchive-Global_map_test_1.4.0.12343-GLSL_ES2.ushaderbytecode"
+        ]
+    }, 
+    "res_ver": "2.2.1.16734", 
+    "restart": 0, 
+    "version_mapping": {
+        "map_test_default": "map_desert_1.4.0.12343"
+    }
+}
